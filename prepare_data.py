@@ -1,4 +1,4 @@
-"""ECG preparation exported from Data_Processing_Reviewed.ipynb.
+"""ECG preparation exported from Data_Processing_2nd_edition.ipynb.
 
 Run from this directory: python prepare_data.py
 Install dependencies first: python -m pip install -r requirements.txt
